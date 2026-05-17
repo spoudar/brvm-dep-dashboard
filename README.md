@@ -39,7 +39,7 @@ Pour exécuter l'application sur votre machine :
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-username/brvm-dashboard.git
+git clone https://github.com/spoudar/brvm-dashboard.git
 cd brvm-dashboard
 
 # 2. Créer un environnement virtuel
